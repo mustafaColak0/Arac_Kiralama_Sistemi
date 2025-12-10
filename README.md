@@ -18,9 +18,9 @@ Uygulama neler yapabiliyor?
 ## 3.Kullanılan Teknolojiler (Tech Stack)
 **Dil:** C#
 ## 🛠️ Kullanılan Kütüphaneler (System)
-* Sorgulama:** [LINQ]([https://serilog.net/](https://learn.microsoft.com/en-us/dotnet/csharp/linq/))
-* Koleksiyon:** [Collections](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic?view=net-10.0)
-* Okuyucu:**[SystemIO](https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-10.0)
+* Sorgulama:** [LINQ] (https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
+* Koleksiyon:** [Collections] (https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic?view=net-10.0)
+* Okuyucu:**[SystemIO] (https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-10.0)
 
 4. ## ⚙️ Kurulum ve Çalıştırma (Installation & Usage)
  Projeyi bilgisayarınıza indirmek ve çalıştırmak için aşağıdaki adımları izleyin:
