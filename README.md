@@ -1,7 +1,7 @@
 ## Arac Kiralama Sistemi
-[Proje Görseli](<img width="431" height="308" alt="PROJE_arayuz" src="https://github.com/user-attachments/assets/f7826caf-d780-436b-aeab-d31e40dad68f" />
-<img width="660" height="600" alt="musait_araclar" src="https://github.com/user-attachments/assets/07aeeff2-c01e-48ef-9008-4079b38dff3b" />
-<img width="742" height="696" alt="Rezervasyon_ekranı" src="https://github.com/user-attachments/assets/4b602255-252a-4c11-96b0-6ed92242f33f" />
+[Proje Görseli]<img width="431" height="308" alt="PROJE_arayuz" src="https://github.com/user-attachments/assets/5a4328ba-358b-4cbe-8aaf-2f5c37c97e51" /><img width="660" height="600" alt="musait_araclar" src="https://github.com/user-attachments/assets/2078d233-b153-4146-8d42-96570b9f0efd" /><img width="742" height="696" alt="Rezervasyon_ekranı" src="https://github.com/user-attachments/assets/441cb822-ab29-498a-9958-c57cb629644c" />
+
+
 
 ## 📌1.Proje Hakkında
 "Arac_Kiralama_Sistemi - kullanıcıya istediği istediği aracı istediği gün aralığına göre kiralayan ve toplam maliyeti gösteren ve kayıtlı kullanıcıları bellekte tutuan bir Console uygulaması."
