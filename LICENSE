@@ -1,0 +1,38 @@
+MIT Lisansı
+
+Telif hakkı (c) [2025] [Mustafa Çolak]
+
+Bu belgeyle, herhangi bir kişiye ücretsiz olarak bir kopyasını edinme izni verilmektedir.
+Bu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") kullanımıyla ilgili işlemleri gerçekleştirmek.
+Yazılımda, sınırlama olmaksızın, haklar da dahil olmak üzere, herhangi bir kısıtlama olmaksızın,
+kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisanslamak ve/veya satmak
+Yazılımın kopyalarını oluşturmak ve Yazılımın kendisine ait olduğu kişilere izin vermek.
+Aşağıdaki koşullara bağlı olarak, bunu yapma imkanı sağlanacaktır:
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi, tüm içeriklere dahil edilecektir.
+Yazılımın kopyaları veya önemli bölümleri.
+
+YAZILIM, AÇIK VEYA BELİRTİLMEKSİZİN, "OLDUĞU GİBİ" SAĞLANMAKTADIR.
+ZIMNİ OLARAK, SATILABİLİRLİK GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE,
+BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME. HİÇBİR DURUMDA
+YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, ZARAR VEYA DİĞER ZARARLARDAN SORUMLU TUTULAMAZLAR.
+SÖZLEŞMEDEN, HAKSIZ FİİLDEN VEYA BAŞKA BİR NEDENLE ORTAYA ÇIKAN, AŞAĞIDAKİLERDEN KAYNAKLANAN YÜKÜMLÜLÜK:
+YAZILIMLA İLGİLİ VEYA YAZILIMIN KULLANIMIYLA İLGİLİ DİĞER İŞLEMLERDEN KAYNAKLANAN DURUMLARDA
+YAZILIM.
+Lisans metnini panoya kopyala
+Bu lisansı önerin
+Lisansı olmayan bir proje için bu lisansı önermek üzere bir çekme isteği gönderin . Lütfen nazik olun: daha önce bir lisans önerilip önerilmediğini kontrol edin, projenin topluluğuna uygun bir lisans önermeye çalışın ve proje yöneticileriyle iletişiminizi dostane tutun.
+
+GitHub deposunun URL'sini girin
+Bu lisansa nasıl başvurulur?
+Kaynak kodunuzun kök dizininde bir metin dosyası oluşturun (genellikle LICENSE veya LICENSE.txt olarak adlandırılır) ve lisans metnini bu dosyaya kopyalayın. [year] yerine geçerli yılı, [fullname] yerine ise telif hakkı sahiplerinin adını (veya adlarını) yazın.
+
+İsteğe bağlı adımlar
+MITProjenizin paket açıklamasına, uygunsa (örneğin, Node.js , Ruby ve Rust ) ekleyin . Bu, lisansın paket dizinlerinde görüntülenmesini sağlayacaktır.
+
+ Kaynak
+Bu lisansı kim kullanıyor?
+Babil
+.AÇIK
+Raylar
+Hakkında 
