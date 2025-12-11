@@ -1,6 +1,8 @@
 ## Arac Kiralama Sistemi
-[Proje Görseli]<img width="431" height="308" alt="PROJE_arayuz" src="https://github.com/user-attachments/assets/5a4328ba-358b-4cbe-8aaf-2f5c37c97e51" /><img width="660" height="600" alt="musait_araclar" src="https://github.com/user-attachments/assets/2078d233-b153-4146-8d42-96570b9f0efd" /><img width="742" height="696" alt="Rezervasyon_ekranı" src="https://github.com/user-attachments/assets/441cb822-ab29-498a-9958-c57cb629644c" />
-
+[Proje Görseli]
+<img width="602" height="258" alt="arayuzz" src="https://github.com/user-attachments/assets/b35baa13-5e3b-4e41-945c-730fbdf04b67" />
+<img width="742" height="696" alt="Rezervasyon_ekranı" src="https://github.com/user-attachments/assets/11a48a76-b7f2-4359-b2fc-42c03a7b42a1" />
+<img width="660" height="600" alt="musait_araclar" src="https://github.com/user-attachments/assets/ec90d748-2b92-423a-9a4b-a5fe027e6a19" />
 
 
 ## 📌1.Proje Hakkında
