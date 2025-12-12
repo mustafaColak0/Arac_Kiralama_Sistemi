@@ -11,8 +11,8 @@ namespace ARAC_KİRALAMA_SİSTEMİ
 
     class Rezervasyon
     {
-        public string? MusteriAdi { get; set; } = "";
-        public string? AracPlaka { get; set; } = "";
+        public string? MusteriAdi { get; set; } 
+        public string? AracPlaka { get; set; } 
         public DateTime Baslangic;
         public DateTime Bitis;
         public double ToplamUcret;
@@ -454,6 +454,7 @@ namespace ARAC_KİRALAMA_SİSTEMİ
         }
     }
 }
+
 
 
 
